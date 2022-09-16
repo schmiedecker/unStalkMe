@@ -8,6 +8,28 @@ Digital stalking is way to easy nowadays, and its not always
 
 
 
+Android Apps:
+
+| Name | Package Name | Source | 
+| ---  | ---          | ---    |
+| mSPY | core.update.framework | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| Mobile-tracker-free | mobile.monitor.child2021 | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| Clevguard | com.kids.pro | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| HoverWatch | com.android.core.mntw | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| Flexispy | com.fp.backup | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| Spyic | com.sc.spyic.v3 | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| Spyhuman | m.mobile.control | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| TheTruthSpy | com.systemservice | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| iKeyMonitor	| com.sec...service.im20190419 | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| Cerberus | com.lsdroid.cerberus | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| Spy24 | net.spy24.wifi | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| Spapp | com.monspap.alarm | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| Meuspy | br.com.sistema.aplicativo | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+| Highstermobile | org.secure.smsgps | [Paper](https://raw.githubusercontent.com/alexliu0809/alexliu0809.github.io/master/assets/files/Paper27.pdf)
+
+
+
+
 
 Emails:
 
