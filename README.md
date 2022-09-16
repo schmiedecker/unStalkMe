@@ -1,8 +1,8 @@
 # unStalkMe
 
-Not sure if someone (your Ex-?) is stalking you? Or is it just a hunch? If they once had access to your smartphone or knew your passwords, could it still be that they read your emails or monitor your social network activity?
+Not sure if someone (your Ex-?) is stalking you? Or is it just a hunch? If they once had access to your smartphone or knew your passwords, could it still be that they read your emails or monitor your social network activity? Digital stalking is way to easy nowadays, and its not always obvious or easy to detect. 
 
-Digital stalking is way to easy nowadays, and its not always 
+Below is a list of services and Android apps that could be abused to spy on, or stalk someone after the trust relationship ended.
 
 
 
@@ -34,9 +34,10 @@ Digital stalking is way to easy nowadays, and its not always
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
 | Google (Gmail)	  | [Link](https://myaccount.google.com/device-activity?continue=https%3A%2F%2Fmyaccount.google.com%2Fsecurity) | [Link](https://myaccount.google.com/notifications?pli=1) | 28 days |
-| Apple ||||
-| Microsoft ||||
-| X ||||
+| Apple (icloud.com)  | TBD | TBD | TBD |
+| Microsoft (outlook.com) | TBD | TBD | TBD |
+| Signal | TBD | TBD | TBD |
+| ... ||||
 
 
 
@@ -44,10 +45,10 @@ Digital stalking is way to easy nowadays, and its not always
 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
-| Facebook ||||
-| Instagram ||||
-| Twitter ||||
-| X ||||
+| Facebook | TBD | TBD | TBD |
+| Instagram | TBD | TBD | TBD |
+| Twitter | TBD | TBD | TBD |
+| ... ||||
 
 
 
@@ -55,14 +56,15 @@ Digital stalking is way to easy nowadays, and its not always
 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
-| WhatsApp ||||
-| Signal ||||
-| X ||||
+| WhatsApp | TBD | TBD | TBD |
+| Signal | TBD | TBD | TBD |
+| ... ||||
 
 
 
 ## Physical:
 
 | Name | How to find |
-| ---  | ---         |
+| ---  | --- |
 | Apple Airtag | [install and run AirGuard (Android only)](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release) |
+| ... ||
