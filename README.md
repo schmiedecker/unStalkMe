@@ -29,18 +29,6 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 
 
 
-## Emails:
-
-| Service | Paired Devices | Event Log | Retention Period |
-| --- 	  | ---		       | ---       | ---     		  |
-| Google (Gmail)	  | [Link](https://myaccount.google.com/device-activity?continue=https%3A%2F%2Fmyaccount.google.com%2Fsecurity) | [Link](https://myaccount.google.com/notifications?pli=1) | 28 days |
-| Apple (icloud.com)  | TBD | TBD | TBD |
-| Microsoft (outlook.com) | TBD | TBD | TBD |
-| Signal | TBD | TBD | TBD |
-| ... ||||
-
-
-
 ## Social networks:
 
 | Service | Paired Devices | Event Log | Retention Period |
@@ -57,6 +45,18 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
 | WhatsApp | TBD | TBD | TBD |
+| Signal | TBD | TBD | TBD |
+| ... ||||
+
+
+
+## Emails:
+
+| Service | Paired Devices | Event Log | Retention Period |
+| --- 	  | ---		       | ---       | ---     		  |
+| Google (Gmail)	  | [Link](https://myaccount.google.com/device-activity?continue=https%3A%2F%2Fmyaccount.google.com%2Fsecurity) | [Link](https://myaccount.google.com/notifications?pli=1) | 28 days |
+| Apple (icloud.com)  | TBD | TBD | TBD |
+| Microsoft (outlook.com) | TBD | TBD | TBD |
 | Signal | TBD | TBD | TBD |
 | ... ||||
 
