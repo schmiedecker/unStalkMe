@@ -8,7 +8,7 @@ Digital stalking is way to easy nowadays, and its not always
 
 
 
-Android Apps:
+## Android Apps:
 
 | Name | Package Name | Source | 
 | ---  | ---          | ---    |
@@ -29,9 +29,7 @@ Android Apps:
 
 
 
-
-
-Emails:
+## Emails:
 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
@@ -42,7 +40,7 @@ Emails:
 
 
 
-Social networks:
+## Social networks:
 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
@@ -53,7 +51,7 @@ Social networks:
 
 
 
-Messengers:
+## Messengers:
 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
@@ -63,8 +61,8 @@ Messengers:
 
 
 
-Physical:
+## Physical:
 
 | Name | How to find |
 | ---  | ---         |
-| Apple Airtag | [AirGuard, on Android](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release) |
+| Apple Airtag | [install and run AirGuard (Android only)](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release) |
