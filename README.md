@@ -1,4 +1,4 @@
-# unStalkMe
+# unStalkMe - Checklist for un-stalking
 
 Not sure if someone (your Ex-?) is stalking you? Or is it just a hunch? If they once had access to your smartphone or knew your passwords, could it still be that they read your emails or monitor your social network activity? Digital stalking is way to easy nowadays, and its not always obvious or easy to detect. 
 
