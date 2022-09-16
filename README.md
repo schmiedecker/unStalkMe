@@ -45,4 +45,4 @@ Physical:
 
 | Name | How to find |
 | ---  | ---         |
-| Apple Airtag | X |
+| Apple Airtag | [AirGuard, on Android](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release) |
