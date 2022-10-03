@@ -45,7 +45,7 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
 | WhatsApp | TBD | TBD | TBD |
-| Signal | TBD | TBD | TBD |
+| Signal | [Android](https://support.signal.org/hc/en-us/articles/360009091591#android_conversation_settings) [iOS](https://support.signal.org/hc/en-us/articles/360009091591#ios_conversation_settings) [Desktop](https://support.signal.org/hc/en-us/articles/360009091591#desktop_conversation_settings) | - | - |
 | Telegram | TBD | TBD | TBD |
 | Threema | TBD | TBD | TBD |
 | SnapChat | TBD | TBD | TBD |
