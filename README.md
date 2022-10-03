@@ -44,7 +44,7 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
-| WhatsApp | TBD | TBD | TBD |
+| WhatsApp | APP -> Linked devices | Nein um zugreifen zukönnen, muss gepaired werden. | 30 - 90 - 360 Tage [Link](https://www.whatsapp.com/legal/privacy-policy-eea#privacy-policy-retention-of-your-information) |
 | Signal | [Android](https://support.signal.org/hc/en-us/articles/360009091591#android_conversation_settings) [iOS](https://support.signal.org/hc/en-us/articles/360009091591#ios_conversation_settings) [Desktop](https://support.signal.org/hc/en-us/articles/360009091591#desktop_conversation_settings) | - | - |
 | Telegram | TBD | TBD | TBD |
 | Threema | Settings > Desktop/Web | [Link](https://threema.ch/de/security) | - |
