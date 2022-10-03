@@ -33,10 +33,9 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
-| Facebook | TBD | TBD | TBD |
-| Instagram | TBD | TBD | TBD |
+| Facebook | [Link](https://www.facebook.com/1234127203/allactivity?activity_history=false&category_key=RECOGNIZEDDEVICES&manage_mode=false&should_load_landing_page=false) | Aktive Sitzungen: [Link](https://www.facebook.com/1234127203/allactivity/?activity_history=false&category_key=ACTIVESESSIONS&manage_mode=false&should_load_landing_page=false) An/Abmeldungen: [Link](https://www.facebook.com/1234127203/allactivity?activity_history=false&category_key=LOGINSLOGOUTS&manage_mode=false&should_load_landing_page=false) | unterschiedlich im Profil bzw. "we retain information for as long as we need it": [Link](https://www.facebook.com/privacy/policy/?annotations[0]=8.ex.2-HowLongWeNeed) |
+| Instagram | [Link](https://www.instagram.com/session/login_activity/?__coig_login=1) | gleich wie bei Paired Devices: [Link](https://www.instagram.com/session/login_activity/?__coig_login=1) | "we retain information for as long as we need it" [Link](https://privacycenter.instagram.com/policy/?annotations[0]=8.ex.2-HowLongWeNeed) |
 | Twitter | TBD | TBD | TBD |
-| Snapchat| [Link](https://accounts.snapchat.com/accounts/otp/devices) | [Link](https://accounts.snapchat.com/accounts/downloadmydata) |[Link](https://support.snapchat.com/de-DE/article/when-are-snaps-chats-deleted), [Privacy](https://snap.com/de-DE/privacy/privacy-policy) |
 | ... ||||
 
 
@@ -46,9 +45,9 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
 | WhatsApp | TBD | TBD | TBD |
-| Signal | [Android](https://support.signal.org/hc/en-us/articles/360009091591#android_conversation_settings) [iOS](https://support.signal.org/hc/en-us/articles/360009091591#ios_conversation_settings) [Desktop](https://support.signal.org/hc/en-us/articles/360009091591#desktop_conversation_settings) | - | - |
+| Signal | TBD | TBD | TBD |
 | Telegram | TBD | TBD | TBD |
-| Threema | Settings > Desktop/Web | [Link](https://threema.ch/de/security) | - |
+| Threema | TBD | TBD | TBD |
 | SnapChat | TBD | TBD | TBD |
 | Discord | TBD | TBD | TBD |
 | ... ||||
@@ -61,7 +60,7 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 | --- 	  | ---		       | ---       | ---     		  |
 | Google (Gmail)	  | [Link](https://myaccount.google.com/device-activity) | [Link](https://myaccount.google.com/notifications?pli=1) | 28 days |
 | Apple (icloud.com)  | TBD | TBD | TBD |
-| Microsoft (outlook.com) | TBD | TBD | TBD |
+| Microsoft (outlook.com) | [Link](https://account.microsoft.com/devices) | [Link](https://account.live.com/activity) | 30 Tage [Source](https://support.microsoft.com/en-us/account-billing/what-is-the-recent-activity-page-23cf5556-4dbe-70da-82c8-bb3a8d8f8016) |
 | Yahoo | TBD | TBD | TBD |
 | GMX | TBD | TBD | TBD |
 | protonmail.com | TBD | TBD | TBD |
