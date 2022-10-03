@@ -61,7 +61,7 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 | Google (Gmail)	  | [Link](https://myaccount.google.com/device-activity) | [Link](https://myaccount.google.com/notifications?pli=1) | 28 days |
 | Apple (icloud.com)  | [Link](https://appleid.apple.com/account/manage/section/devices) | No | NA |
 | Microsoft (outlook.com) | TBD | TBD | TBD |
-| Yahoo | TBD | TBD | TBD |
+| Yahoo | [Link] (https://github.com/schmiedecker/unStalkMe/issues/6#issue-1395045194) | [Link] (https://github.com/schmiedecker/unStalkMe/issues/6#issue-1395045194) | ca. 90 |
 | GMX | [Link](https://hilfe.gmx.net/sicherheit/sitzungen/sitzungen-beenden.html) | [Link]https://agb-server.gmx.net/datenschutz-at/ | [Link]https://agb-server.gmx.net/datenschutz-at/ |
 | protonmail.com | TBD | TBD | TBD |
 | mailbox.org | TBD | TBD | TBD |
