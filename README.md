@@ -33,7 +33,7 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
-| Facebook | TBD | TBD | TBD |
+| Facebook | [Link](https://www.facebook.com/1234127203/allactivity?activity_history=false&category_key=RECOGNIZEDDEVICES&manage_mode=false&should_load_landing_page=false) | Aktive Sitzungen: [Link](https://www.facebook.com/1234127203/allactivity/?activity_history=false&category_key=ACTIVESESSIONS&manage_mode=false&should_load_landing_page=false) An/Abmeldungen: [Link](https://www.facebook.com/1234127203/allactivity?activity_history=false&category_key=LOGINSLOGOUTS&manage_mode=false&should_load_landing_page=false) | unterschiedlich |
 | Instagram | TBD | TBD | TBD |
 | Twitter | TBD | TBD | TBD |
 | ... ||||
