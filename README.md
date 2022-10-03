@@ -36,6 +36,7 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 | Facebook | TBD | TBD | TBD |
 | Instagram | TBD | TBD | TBD |
 | Twitter | TBD | TBD | TBD |
+| Snapchat| [Link](https://accounts.snapchat.com/accounts/otp/devices) | [Link](https://accounts.snapchat.com/accounts/downloadmydata) |[Link](https://support.snapchat.com/de-DE/article/when-are-snaps-chats-deleted), [Privacy](https://snap.com/de-DE/privacy/privacy-policy) |
 | ... ||||
 
 
