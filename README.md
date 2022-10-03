@@ -49,7 +49,7 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 | Telegram | TBD | TBD | TBD |
 | Threema | TBD | TBD | TBD |
 | SnapChat | TBD | TBD | TBD |
-| Discord | TBD | TBD | TBD |
+| Discord | [Link](https://discord.com/channels/@me) > User Settings > Devices| [Link](https://discord.com/channels/@me) > User Settings > Devices | 4 months, for more: [Link](https://discord.com/channels/@me) > User Settings > Privacy & Safety > Request Data|
 | ... ||||
 
 
