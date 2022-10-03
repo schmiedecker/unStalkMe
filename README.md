@@ -46,6 +46,10 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 | --- 	  | ---		       | ---       | ---     		  |
 | WhatsApp | TBD | TBD | TBD |
 | Signal | TBD | TBD | TBD |
+| Telegram | TBD | TBD | TBD |
+| Threema | TBD | TBD | TBD |
+| SnapChat | TBD | TBD | TBD |
+| Discord | TBD | TBD | TBD |
 | ... ||||
 
 
@@ -54,10 +58,13 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
-| Google (Gmail)	  | [Link](https://myaccount.google.com/device-activity?continue=https%3A%2F%2Fmyaccount.google.com%2Fsecurity) | [Link](https://myaccount.google.com/notifications?pli=1) | 28 days |
+| Google (Gmail)	  | [Link](https://myaccount.google.com/device-activity) | [Link](https://myaccount.google.com/notifications?pli=1) | 28 days |
 | Apple (icloud.com)  | TBD | TBD | TBD |
 | Microsoft (outlook.com) | TBD | TBD | TBD |
-| Signal | TBD | TBD | TBD |
+| Yahoo | TBD | TBD | TBD |
+| GMX | TBD | TBD | TBD |
+| protonmail.com | TBD | TBD | TBD |
+| mailbox.org | TBD | TBD | TBD |
 | ... ||||
 
 
