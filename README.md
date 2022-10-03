@@ -36,7 +36,6 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 | Facebook | TBD | TBD | TBD |
 | Instagram | TBD | TBD | TBD |
 | Twitter | TBD | TBD | TBD |
-| Snapchat| [Link](https://accounts.snapchat.com/accounts/otp/devices) | [Link](https://accounts.snapchat.com/accounts/downloadmydata) |[Link](https://support.snapchat.com/de-DE/article/when-are-snaps-chats-deleted), [Privacy](https://snap.com/de-DE/privacy/privacy-policy) |
 | ... ||||
 
 
@@ -63,7 +62,7 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 | Apple (icloud.com)  | TBD | TBD | TBD |
 | Microsoft (outlook.com) | TBD | TBD | TBD |
 | Yahoo | TBD | TBD | TBD |
-| GMX | TBD | TBD | TBD |
+| GMX | [Link](https://hilfe.gmx.net/sicherheit/sitzungen/sitzungen-beenden.html) | [Link]https://agb-server.gmx.net/datenschutz-at/ | [Link]https://agb-server.gmx.net/datenschutz-at/ |
 | protonmail.com | TBD | TBD | TBD |
 | mailbox.org | TBD | TBD | TBD |
 | ... ||||
