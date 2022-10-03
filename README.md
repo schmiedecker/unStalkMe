@@ -60,7 +60,7 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 | Service | Paired Devices | Event Log | Retention Period |
 | --- 	  | ---		       | ---       | ---     		  |
 | Google (Gmail)	  | [Link](https://myaccount.google.com/device-activity) | [Link](https://myaccount.google.com/notifications?pli=1) | 28 days |
-| Apple (icloud.com)  | TBD | TBD | TBD |
+| Apple (icloud.com)  | [Link](https://appleid.apple.com/account/manage/section/devices) | No | NA |
 | Microsoft (outlook.com) | TBD | TBD | TBD |
 | Yahoo | TBD | TBD | TBD |
 | GMX | TBD | TBD | TBD |
